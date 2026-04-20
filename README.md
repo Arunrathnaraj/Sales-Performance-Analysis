@@ -26,20 +26,10 @@ Regional data
 🔍 Interactive filters and slicers
 🛠️ Tools & Technologies
 Power BI
-Microsoft Excel / CSV (data source)
+CSV (data source)
 Data cleaning & transformation using Power Query
+
 🚀 How to Use
 Open the .pbix file in Power BI Desktop
 Refresh the dataset (if needed)
 Use filters/slicers to explore insights
-📸 Screenshots
-
-(Add dashboard screenshots here)
-
-📌 Key Insights
-Highest sales observed in (region/product)
-Peak sales during (time period)
-Most profitable category: (category name)
-📄 License
-
-This project is for learning and demonstration purposes.
